@@ -41,6 +41,7 @@ This project analyzes the spending patterns of 50 startups to determine how diff
 * **Analysis Folder:** Excel sheets with Regression formulas and output.
 * **Detailed Work flow:** Steps followed during project.
 * **Power BI File (.pbix):** Interactive profitability dashboard.
+* **PowerPoint (.pbix):** Detailed Presentation of the Project.
 
   ## 🖥️ Dashboard & Analysis Preview
 ![Regression Analysis View](Regression%20Analysis.png)
