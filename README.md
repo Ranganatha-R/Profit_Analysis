@@ -28,14 +28,14 @@ This project analyzes the spending patterns of 50 startups to determine how diff
 * **Advanced Insights:** Created calculated columns and supporting visuals to validate "Observations vs. Recommendations."
 
 ## 📊 Key Insights
-* **[Profit generally increases with higher spending]**
-* **[Marketing has the strongest impact on profit growth. R&D gives steady returns; Admin impact is inconsistent.]**
-* **[Average profit is 112K$, indicating early stage but healhty starteups]**
+* Profit generally increases with higher spending
+* Marketing has the strongest impact on profit growth. R&D gives steady returns; Admin impact is inconsistent.
+* Average profit is 112K$, indicating early stage but healhty starteups
 
 ## 💡 Recommendations
-* **[Increase Marketing investment to boost profit.]**
-* **[Maintain R&D spending for consistent growth.]**
-* **[Optimize Admin costs for efficiency.]**
+* Increase Marketing investment to boost profit.
+* Maintain R&D spending for consistent growth.
+* Optimize Admin costs for efficiency.
 
 ## 📁 Files in Repository
 * **Analysis Folder:** Excel sheets with Regression formulas and output.
