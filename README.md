@@ -43,7 +43,8 @@ This project analyzes the spending patterns of 50 startups to determine how diff
 * **Power BI File (.pbix):** Interactive profitability dashboard.
 
   ## 🖥️ Dashboard & Analysis Preview
-![Dashboard Main View](Main Dashboard.png)
-![Regression Analysis View](Regression Analysis.png)
+![Dashboard Main View](Main%20Dashboard.png)
+![Regression Analysis View](Regression%20Analysis.png)
+![Supporting Dashboard Main View](Supporting%20Visual.png)
 
 
